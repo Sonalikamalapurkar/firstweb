@@ -177,21 +177,21 @@ ul li a{
 
 .img-tech{
     position: relative;
-    width: 300px;
-    padding: 20px;
-    margin: 20px;
+    padding: 30px;
+    margin: 40px;
+    padding-left: 120px;
    text-align: center;
    justify-content: center;
    align-items: center;
 }
 
-.img-tech img {
+.img-tech icon {
     position: relative;
     width: 90px;
     height: 90px;
     padding: 10px;
     background: #eee;
-    border-radius: 40%;
+    border-radius: 50%;
    
 }
 
